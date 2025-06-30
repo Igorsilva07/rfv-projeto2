@@ -1,9 +1,9 @@
-pandas>=1.0.0,<3.0.0
-streamlit>=1.0.0,<2.0.0
-numpy>=1.20.0,<2.0.0
-scikit-learn>=0.24.0,<1.5.0
-matplotlib>=3.0.0,<4.0.0
-seaborn>=0.11.0,<0.14.0
-Pillow>=8.0.0,<11.0.0
-openpyxl>=3.0.0,<4.0.0  # Necessário para ler e escrever arquivos .xlsx
-xlsxwriter>=1.0.0,<4.0.0 # Engine para pd.ExcelWriter
+pandas
+streamlit
+numpy
+scikit-learn
+matplotlib
+seaborn
+Pillow
+openpyxl
+xlsxwriter
