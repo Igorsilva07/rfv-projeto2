@@ -45,7 +45,7 @@ RFV é uma técnica de segmentação de clientes que agrupa os clientes com base
 
 Para iniciar a aplicação Streamlit, execute o seguinte comando no terminal:
 ```sh
-streamlit run app_RFV.py
+streamlit run app_RFV2.py
 ```
 ## Estrutura do Projeto
 
