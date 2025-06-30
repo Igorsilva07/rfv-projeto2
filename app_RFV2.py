@@ -219,5 +219,5 @@ def main():
         df_xlsx = to_excel(df_RFV)
         st.download_button(label='📥 Baixar Tabela RFV Completa (com K-Means)', data=df_xlsx, file_name='RFV_KMeans_Clientes.xlsx', mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
 
-if __name__ == '__main_':
+if __name__ == '__main__':
     main()
